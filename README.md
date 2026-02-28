@@ -1,13 +1,39 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is WChaitum
 =======================================================================================================================================
 
-IT Support
+IT Support transitioning into Automation & Infrastructure Engineering
 ---------------------
+* 🚀 Currently Working On
+- Building automation tools with Python & PowerShell
+- Developing YouTube Playlist Downloader (FLAC + Metadata + Retry System)
+- Learning IT Infrastructure & Cyber Security
 
 * 🌍  I'm based in Thailand
 
 ### Skills
+💻 Programming & Scripting
 
+Python
+
+PowerShell
+
+Batch
+
+🌐 Web Technologies
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /><JavaScript
+
+HTML
+
+CSS
+
+Bootstrap
+
+⚙️ Automation & Tools
+
+Selenium
+
+Power Automate
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
