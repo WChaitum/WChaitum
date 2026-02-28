@@ -6,9 +6,11 @@ IT Support transitioning into Automation & Infrastructure Engineering
 ---
 
 ### 🚀 Currently Working On
-- Building automation tools with Python & PowerShell
-- Developing YouTube Playlist Downloader (FLAC + Metadata + Retry System)
-- Studying IT Infrastructure & Cyber Security fundamentals
+- Managing Active Directory (User, Group, GPO)
+- Automating AD administration with PowerShell
+- Supporting Windows Server infrastructure
+- Building automation tools with Python
+- Developing YouTube Playlist Downloader
 
 🌍 I'm based in Thailand
 
