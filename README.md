@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Support transitioning into Automation & Infrastructure Engineering
 ---------------------
 * 🚀 Currently Working On
- Building automation tools with Python & PowerShell
- Developing YouTube Playlist Downloader (FLAC + Metadata + Retry System)
- Learning IT Infrastructure & Cyber Security
+-Building automation tools with Python & PowerShell
+-Developing YouTube Playlist Downloader (FLAC + Metadata + Retry System)
+-Learning IT Infrastructure & Cyber Security
 
 * 🌍  I'm based in Thailand
 
@@ -25,7 +25,6 @@ IT Support transitioning into Automation & Infrastructure Engineering
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
 </p>
 ⚙️ Automation & Tools
@@ -33,7 +32,6 @@ IT Support transitioning into Automation & Infrastructure Engineering
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="36" height="36" alt="Selenium" />
 </p>
-Power Automate
 
 
 
