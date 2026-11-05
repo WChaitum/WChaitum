@@ -26,6 +26,7 @@ IT Support transitioning into Automation & Infrastructure Engineering
 ## ⚙️ Automation & Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="36" height="36" alt="Selenium" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="36" height="36" alt="Selenium" />  
 </p>
 
 ## 🌐 Web Technologies
